@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+# package-lock.json
+package-lock.json
+
+# package.json
+package.json
+
+# Environment variables
+.env
+
+# Build outputs
+build/
+dist/
+
+# System files
+.chk
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
